@@ -1,18 +1,18 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+History
+Project Logs for PCBLibrary
+Project Outputs for PCBLibrary
 
-# Other files and folders
-.settings/
+*.Zip
+*.LOG
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+*.drc
+*.html
+*.gbr
+*.Txt
+*.zip
+*.apr
+*.EXTREP
+*.REP
+*.APR_LIB
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+*.SchDocPreview
