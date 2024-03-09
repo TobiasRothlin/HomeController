@@ -144,6 +144,8 @@ class TSL2591:
         Returns:
             float: The lux value.
         """
+        if ch0 == 0:
+            return 0
         d0 = ch0 * (402.0 / 65535.0)
         d1 = ch1 * (402.0 / 65535.0)
         ratio = d1 / d0
